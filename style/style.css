@@ -230,12 +230,10 @@
 .brans-img{
     padding: 35px 75px;
     border: 1px solid #EFEFEF;
+    background: #FFF;
 }
 .box{
     margin-top: 100px;
-}
-.box-brans{
-    background: #FFF;
 }
 .goods-two{
     margin-top: 80px;
